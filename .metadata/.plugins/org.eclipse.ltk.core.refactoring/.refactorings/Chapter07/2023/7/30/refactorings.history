@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;SecurityConfig.java&apos; to &apos;toilet_project/src/main/java/edu.pnu.config&apos;&#x0D;&#x0A;- Original project: &apos;Chapter07&apos;&#x0D;&#x0A;- Destination element: &apos;toilet_project/src/main/java/edu.pnu.config&apos;&#x0D;&#x0A;- Original element: &apos;edu.pnu.config.SecurityConfig.java&apos;" description="Copy compilation unit" destination="=toilet_project/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;edu.pnu.config" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;edu.pnu.config{SecurityConfig.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1690354517842" units="1" version="1.0"/>
+</session>

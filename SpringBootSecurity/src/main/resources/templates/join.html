@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="EUC-KR">
+	<title>회원가입 페이지</title>
+</head>
+
+<body th:align="center">
+	<h2>회원가입</h2>
+	<form action="/join" method="POST">
+		<table th:align="center" border="1" th:cellpadding="0" th:cellspacing="0">
+			<tr>
+				<td bgcolor="lightgreen">username : </td>
+				<td><input type="text" name="username" placeholder="Username" /></td>
+			</tr>
+			<tr>
+				<td bgcolor="lightgreen">password : </td>
+				<td><input type="password" name="password" placeholder="Password" /></td>
+			</tr>
+			<tr>
+				<td colspan="2" align="center">
+					<form action="/login" method="post">
+						<input type="submit" value="완료" />
+					</form>
+				</td>
+			</tr>
+</body>
+
+</html>
